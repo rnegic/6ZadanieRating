@@ -1,0 +1,9 @@
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.csprojAssemblyReference.cache
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.FormConverter.resources
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.Properties.Resources.resources
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.csproj.GenerateResource.cache
+D:\пм2022\david\ConverterNumber\ConverterNumber\bin\Debug\ConverterNumber.exe.config
+D:\пм2022\david\ConverterNumber\ConverterNumber\bin\Debug\ConverterNumber.exe
+D:\пм2022\david\ConverterNumber\ConverterNumber\bin\Debug\ConverterNumber.pdb
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.exe
+D:\пм2022\david\ConverterNumber\ConverterNumber\obj\Debug\ConverterNumber.pdb
